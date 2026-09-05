@@ -3,7 +3,7 @@
 # In order to train the script as per your choices, make changes to the inputs in this section.
 # Unless you are editing the code itself this should be the only place you should be making changes.
 
-training_imageset_folder_name = "Coins"    # Change this to the desired folder name in ImageSets/YAMLFormat
+training_imageset_folder_name = "Coins"   # Change this to the desired folder name in ImageSets/YAMLFormat
 desired_model_name = "CoinDetectionModel" # Change this to the name you want to give to the produced model
 
 # Training Parameters
